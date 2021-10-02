@@ -1,0 +1,26 @@
+  #email, #password{
+    border-radius: 30px;
+    background-color: white;
+  }
+  #check, #senha,#topo1{
+    color:grey
+  }
+  #botao_entrar{
+    background: red;
+    border-radius: 30px;
+    height: 60px;
+    color:black
+    
+  }
+  .cadastro1{
+    color:grey;
+    margin-left: 80px;
+  }
+  .cadastro2{
+    color:red;
+    align-items: center; 
+  }
+  #topo{
+  color:red;
+  
+  }

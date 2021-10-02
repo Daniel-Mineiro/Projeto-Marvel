@@ -1,0 +1,13 @@
+#button{
+color: white;
+padding-left: 50px;
+}
+#dialog{
+    background:black;
+    background-image: linear-gradient(to left, transparent 10%, rgb(0, 0, 0)100%), url('https://www.opovo.com.br/_midias/jpg/2019/04/22/750x500/1_20190409104125-2443298.jpg'); /* W3C */
+    background-repeat:no-repeat;
+    background-size: 800px 700px;
+    background-position: right;
+  
+    
+}

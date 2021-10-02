@@ -1,0 +1,22 @@
+.toolbar{
+    background-color: black;
+}
+
+#card{
+    margin-top:210px;
+  background-image: linear-gradient(to top, transparent 0%, red 90%)
+}
+#card1, #card2, #card3 {
+    border-radius: 15px;
+    background-repeat: no-repeat;
+    background-size: 260px 450px;
+  background-image:url('https://pm1.narvii.com/6774/3e86a7d4ac11cf8465efaa15c69294f6315db30fv2_hq.jpg'); /* W3C */
+}
+#card2{
+    
+  background-image:url('https://i.pinimg.com/originals/ec/90/d2/ec90d20a8a899757a29b8641ebebc4e0.jpg'); /* W3C */
+}
+#card3{
+    
+  background-image:url('https://img.elo7.com.br/product/zoom/2AC8111/placa-decorativa-quadro-filme-manopla-thanos-gv632-decoracao-escritorio.jpg'); /* W3C */
+}
